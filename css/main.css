@@ -13,12 +13,14 @@ div {
 }
 
 .btn {
-display: inline-block;
-text-decoration: none;
-background-color: #333;
-color: #fff;
-font-size: 1.125rem;
-border-radius: 8px;
+  display: inline-block;
+  text-decoration: none;
+  background-color: #333;
+  color: #fff;
+  font-size: 1.125rem;
+  border-radius: 8px;
+  padding: .4em .75em .3em;
+  border: 3px solid #333;
 }
 
 .btn:hover {
@@ -37,7 +39,6 @@ border-radius: 8px;
 .btn-ghost {
   background-color: #fff;
   color: #000;
-  border: 3px solid #333;
 }
 
 .btn-ghost:hover {
