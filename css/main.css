@@ -29,7 +29,7 @@ div {
 
 .btn-subtle {
   background-color: #ccc;
-  color: #fff;
+  border-color: #ccc;
 }
 
 .btn-subtle:hover {
@@ -39,6 +39,7 @@ div {
 .btn-ghost {
   background-color: #fff;
   color: #000;
+  border-color: #000;
 }
 
 .btn-ghost:hover {
@@ -48,6 +49,7 @@ div {
 .btn-warning {
   background-color: #f33;
   color: #fff;
+  border-color: #fff;
 }
 
 .btn-warning:hover {
