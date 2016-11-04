@@ -13,25 +13,38 @@ div {
 }
 
 .btn {
+display: inline-block;
+text-decoration: none;
+background-color: #333;
+color: #fff;
+}
 
+.btn:hover {
+  text-decoration: none;
+  background-color: #000;
 }
 
 .btn-subtle {
+  text-decoration: none;
 
 }
 
 .btn-ghost {
-
+  text-decoration: none;
+  border: 3px solid #333;
 }
 
 .btn-warning {
+  text-decoration: none;
 
 }
 
 .btn-small {
+  text-decoration: none;
 
 }
 
 .btn-big {
+  text-decoration: none;
 
 }
